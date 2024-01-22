@@ -1,0 +1,80 @@
+
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: rgb(156, 156, 185);
+  font-family: "Grape Nuts", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+header h1 {
+  background-color: #a6c3cec3;
+  padding-top: 15px;
+  padding-bottom: 15px  
+}
+
+.tron {
+  height: 100%;
+  width: 99%;
+}
+
+
+.row{
+  display: flex;
+  align-items:center;
+  margin: 0 150px;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+
+
+.para{
+  margin: 0px 150px;
+  margin-top: 70px;
+  margin-bottom: 50px; 
+}
+
+.paragraph h1 {
+  font-size: 55px;
+  text-align: center;
+  margin-bottom: 20px; 
+}
+
+.paragraph p {
+  font-size:25px;
+  letter-spacing: 1.2px;
+  line-height: 28px;
+  margin-top:  10px;
+}
+
+.wri {
+  margin: 0px 150px;
+  margin-bottom: 50px;
+}
+
+h2 {
+  font-size:20px;
+  text-align:center;
+}
+
+.wrote ul {
+  font-size: 18px;
+  margin-top:20px;
+}
+
+.writings ul li {
+  margin-top: 8px;
+}
+footer {
+  background-color: #b5b5a9b0;
+  padding-bottom: 30px;
+  padding-top: 60px;
+  padding-left: 150px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap')
